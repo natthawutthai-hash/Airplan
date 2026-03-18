@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class AirplanePhysicsController : MonoBehaviour
+public class AirControl : MonoBehaviour
 {
     [Header("Engine")]
     public float thrust = 40f; // แรงขับของเครื่องยนต์
